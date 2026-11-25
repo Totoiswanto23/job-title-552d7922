@@ -1,0 +1,1 @@
+{"description":"Weirdest Job Title: Blind Judge Showdown — one job title, 60 characters at most, written to /output/entry.txt.","name":"job-title-552d7922","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
